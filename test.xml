@@ -1,0 +1,34 @@
+<TLDLOG REGLIST='09,11,12,13,14,15,16,17,18,19' VERSION='4' MINOR_VERSION='38.0.0.0.11'>
+	<transaction>
+		<receiptNo>0116078</receiptNo>
+		<date>20071002</date>
+		<time>155546</time>
+		<endTime>160228</endTime>
+		<registerNo>11</registerNo>
+		<postype>0001</postype>
+		<buffer>000116078</buffer>
+		<taxamt>0021000</taxamt>
+		<totalamt>0231000</totalamt>
+		<type>1</type>
+		<saletype>0001</saletype>
+		<noitems>01</noitems>
+		<transactionid></transactionid>
+		<loyaltycardid>0000000000000000</loyaltycardid>
+		<storeid>19700025</storeid>
+		<redemptionno>000000000</redemptionno>
+		<notenders>01</notenders>
+		<tenderdetail>
+			<tendertype>00</tendertype>
+			<tenderamt>0231000</tenderamt>
+		</tenderdetail>
+		<item>
+			<menuitemno>00002054</menuitemno>
+			<price>00015400</price>
+			<qty>0020</qty>
+			<itemtype>5</itemtype>
+			<promqty>0000</promqty>
+			<voidqty>0004</voidqty>
+			<baseplu>00000000</baseplu>
+		</item>
+	</transaction>
+</TLDLOG>
